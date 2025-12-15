@@ -3,16 +3,13 @@
 A simple yet powerful Arduino project that uses a **rotary encoder** to increment/decrement a counter and displays the value in real-time on a **4-digit 7-segment TM1637 display** — all running on an **ESP8266 (NodeMCU)**.  
 ✅ **Single-click the encoder button to reset the counter to 0!**
 
-![Demo GIF or photo – e.g., encoder turning, display updating, reset on press](https://via.placeholder.com/600x300/0A2E5A/FFFFFF?text=Rotary+Encoder+%2B+TM1637+Demo)  
-*(Replace with actual image/GIF in your repo)*
-
-➡️ **[Watch the Tutorial on YouTube](https://youtube.com/@YourChannel)** *(update with your link)*
+➡️ **[Watch the Tutorial on YouTube](https://youtube.com/@YourChannel)**
 
 ---
 
 ## 🛠️ Features
 
-- Real-time counter display (supports negative values, e.g., `-12`)
+- Real-time counter display (supports negative values, e.g., `-14`)
 - Direction detection: **Clockwise (CW)** ↗️ / **Counter-Clockwise (CCW)** ↖️
 - Hardware-debounced push-button using `ezButton` library
 - Reset counter to `0` with a single **click** of the encoder shaft
@@ -60,7 +57,7 @@ Install via **Arduino IDE → Tools → Manage Libraries**:
 
 1. Clone or download this repo  
    ```bash
-   git clone https://github.com/your-username/rotary-encoder-tm1637.git
+   git clone https://github.com/ehsanDIY/RotaryEncoder.git
 2. Open rotary_encoder_counter.ino in Arduino IDE
 3. Select board: NodeMCU 1.0 (ESP-12E Module)
 4. Upload! ✅
