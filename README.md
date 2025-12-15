@@ -71,30 +71,6 @@ Install via **Arduino IDE → Tools → Manage Libraries**:
 📌 Rotary Encoder + TM1637 Counter on ESP8266 — Reset on Click!
 (Replace with your real video URL)
 
-
-Qwen3-Max
-12:46 AM
-Absolutely! Here's the complete README.md in proper Markdown (.md) format, ready to copy-paste directly into your GitHub repository:
-
-markdown
-123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263
-# 🌀 Rotary Encoder + TM1637 Counter on ESP8266
-
-A simple yet powerful Arduino project that uses a **rotary encoder** to increment/decrement a counter and displays the value in real-time on a **4-digit 7-segment TM1637 display** — all running on an **ESP8266 (NodeMCU)**.  
-✅ **Single-click the encoder button to reset the counter to 0!**
-
-![Demo GIF or photo – e.g., encoder turning, display updating, reset on press](https://via.placeholder.com/600x300/0A2E5A/FFFFFF?text=Rotary+Encoder+%2B+TM1637+
-Open rotary_encoder_counter.ino in Arduino IDE
-Select board: NodeMCU 1.0 (ESP-12E Module)
-Upload! ✅
-📝 Tested on:
-
-Arduino IDE 2.3+
-ESP8266 Core v3.1.2
-🎥 Video Tutorial
-📌 Rotary Encoder + TM1637 Counter on ESP8266 — Reset on Click!
-(Replace with your real video URL)
-
 📝 License
 This project is open-source under the MIT License — feel free to use, modify, and share! 🙌
 See LICENSE for details.
