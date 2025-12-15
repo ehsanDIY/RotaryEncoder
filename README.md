@@ -3,7 +3,7 @@
 A simple yet powerful Arduino project that uses a **rotary encoder** to increment/decrement a counter and displays the value in real-time on a **4-digit 7-segment TM1637 display** — all running on an **ESP8266 (NodeMCU)**.  
 ✅ **Single-click the encoder button to reset the counter to 0!**
 
-➡️ **[Watch the Tutorial on YouTube](https://youtube.com/@YourChannel)**
+➡️ **[Watch the Tutorial on YouTube]([https://youtu.be/lKETswMZMvk/])**
 
 ---
 
