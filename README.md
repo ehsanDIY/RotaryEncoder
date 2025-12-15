@@ -73,8 +73,14 @@ This project is open-source under the MIT License — feel free to use, modify, 
 See LICENSE for details.
 
 🙌 Support & Contribution
+
 ⭐ Star this repo if you find it useful!
+
 🐞 Found a bug? Open an Issue.
+
 💡 Idea for improvement? Submit a Pull Request!
+
 📩 Questions? DM me on YouTube.
+
 Made with ❤️ for the DIY electronics & maker community.
+
